@@ -1,0 +1,19 @@
+{
+  "name": "project_html_and_css_injector",
+  "version": "1.0.0",
+  "description": "HTML и CSS впрыск с помощью Gulp4 и BrowserSync",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "bs-html-injector": "^3.0.3",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
